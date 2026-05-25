@@ -1,6 +1,7 @@
 # Hi, I'm Arpita 👋
 
 ### Engineering Student | AI/ML Enthusiast | Full Stack Learner
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=AI%2FML+Enthusiast;Full+Stack+Learner;Hackathon+Explorer;Building+Projects+Everyday)](https://git.io/typing-svg)
 
 ---
 
@@ -22,7 +23,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 
----
+
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
@@ -30,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
----
+
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -48,7 +49,7 @@ Built a recommendation engine using Machine Learning techniques and Python.
 **Tech Used:**  
 `Python` `Pandas` `Scikit-Learn`
 
----
+
 
 ### 🔹 DBMS Management System
 Designed a database-driven system with SQL queries and relational schema.
@@ -56,7 +57,7 @@ Designed a database-driven system with SQL queries and relational schema.
 **Tech Used:**  
 `MySQL` `DBMS` `SQL`
 
----
+
 
 ### 🔹 Web Development Projects
 Built responsive websites using HTML, CSS, JavaScript, and React.
@@ -67,9 +68,8 @@ Built responsive websites using HTML, CSS, JavaScript, and React.
 ---
 
 ## 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitaL10&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpitaL10&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaL10&layout=compact&theme=tokyonight" />
 
 <img height="180em" src="https://streak-stats.demolab.com?user=ArpitaL10&theme=tokyonight" />
 ---
@@ -87,6 +87,6 @@ Built responsive websites using HTML, CSS, JavaScript, and React.
 - LinkedIn: https://www.linkedin.com/in/arpita-lakhotia-276704313/
 - Email: arpitalakhotiya10@gmail.com
 
----
+
 
 ⭐️ “Code. Learn. Build. Repeat.”
