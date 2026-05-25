@@ -86,8 +86,8 @@ Built responsive websites using HTML, CSS, JavaScript, and React.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/arpita-lakhotia-276704313/
+- Email: arpitalakhotiya10@gmail.com
 
 ---
 
