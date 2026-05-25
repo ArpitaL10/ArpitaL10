@@ -1,9 +1,7 @@
-# Hi, I'm Arpita 👋
+![Banner](banner.png)
 
-### Engineering Student | AI/ML Enthusiast | Full Stack Learner
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=AI%2FML+Enthusiast;Full+Stack+Learner;Hackathon+Explorer;Building+Projects+Everyday)](https://git.io/typing-svg)
 
----
 
 ## 👩‍💻 About Me
 
