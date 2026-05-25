@@ -41,27 +41,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Movie Recommendation System
-Built a recommendation engine using Machine Learning techniques and Python.
 
-**Tech Used:**  
-`Python` `Pandas` `Scikit-Learn`
-
-
-
-### 🔹 DBMS Management System
-Designed a database-driven system with SQL queries and relational schema.
-
-**Tech Used:**  
-`MySQL` `DBMS` `SQL`
-
-
-
-### 🔹 Web Development Projects
-Built responsive websites using HTML, CSS, JavaScript, and React.
-
-**Tech Used:**  
-`HTML` `CSS` `JavaScript` `React`
 
 ---
 
