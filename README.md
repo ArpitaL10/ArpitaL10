@@ -67,13 +67,11 @@ Built responsive websites using HTML, CSS, JavaScript, and React.
 ---
 
 ## 📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpitaL10&show_icons=true&theme=tokyonight" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitaL10&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaL10&layout=compact&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaL10&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArpitaL10&theme=tokyonight)
-
+<img height="180em" src="https://streak-stats.demolab.com?user=ArpitaL10&theme=tokyonight" />
 ---
 
 ## 🏆 Achievements
